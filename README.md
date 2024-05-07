@@ -5,6 +5,6 @@
   
   - câu b: https://github.com/BayerSe/VaR-Backtesting/blob/master/backtest.py
 * DATA:
-  https://www.investing.com/currencies/vnd-usd-historical-data
-  
-  https://www.investing.com/currencies/vnd-rub-historical-data
+  https://finance.vietstock.vn/TCB/transaction-statistics.htm?grid=invest
+
+   https://finance.vietstock.vn/ABI/transaction-statistics.htm
