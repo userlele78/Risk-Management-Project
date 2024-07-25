@@ -1,10 +1,13 @@
-# Risk-Management-Project
-# Tài liệu:
-* CODE:
-  - câu a: https://medium.com/@matt_84072/historical-simulation-value-at-risk-explained-with-python-code-a904d848d146
-  
-  - câu b: https://github.com/BayerSe/VaR-Backtesting/blob/master/backtest.py
-* DATA:
-  https://finance.vietstock.vn/TCB/transaction-statistics.htm?grid=invest
+# Investment Portfolio Risk Management using BHS and Backtesting
 
-   https://finance.vietstock.vn/ABI/transaction-statistics.htm
+[Link to Data of TCB Stock](https://finance.vietstock.vn/TCB/transaction-statistics.htm?grid=invest)
+[Link to Data of ABI Stock](https://finance.vietstock.vn/ABI/transaction-statistics.htm)
+
+
+├── README.md          <- The top-level README for developers using this project.
+├── Data
+│   ├── merged_data-final         <- Data after merge close price of 2 stocks according to time
+└── Code
+    ├── non-parametric-VaR        <- Backtest and Historical Simulation for non-parametric approach
+    └── parametric-VaR            <- Backtest and Historical Simulation for parametric approach
+     
