@@ -35,20 +35,10 @@ The primary goal of this analysis is to quantify the risk within the selected po
 
 **Tools and Methods Used**
 
-- Parametric VaR Calculation: Analytical method based on mean and standard deviation of asset returns.
+- Parametric VaR Calculation: Detailed calculation of portfolio VaR using the parametric method at a 99% confidence level and potential loss for the portfolio
 - Non-parametric VaR: Basic historical simulation using empirical percentiles of historical returns.
 - Backtesting: Used to validate VaR models, employing the Kupiec Unconditional Coverage Test, Christoffersen Conditional Coverage Test, and Dynamic Quantile Test.
-*Parametric VaR Calculation*
-
-- Detailed calculation of portfolio VaR using the parametric method at a 99% confidence level.
-- Calculation of the potential loss for TCB, ABI, and the total portfolio.
-  *Basic Historical Simulation (Non-parametric VaR)*
-
-- Detailed calculation using historical simulation to estimate portfolio VaR.
-*Backtesting Results*
-
-- Likelihood Ratio Framework and Dynamic Quantile Test results for backtesting VaR models.
-- The report evaluates both parametric and non-parametric models based on backtest performance.
+  
 **Conclusion**
 
 - Insights into the effectiveness of the VaR models in predicting risk within the chosen portfolio.
