@@ -23,7 +23,7 @@ The primary goal of this analysis is to quantify the risk within the selected po
 
 - Overview of financial risk and the importance of VaR in risk management.
 - Project scope, objectives, and expected outcomes.
-- 
+  
 **Theoretical Background**
 
 - Value at Risk (VaR): Explains parametric and non-parametric methods for VaR calculation.
