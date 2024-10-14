@@ -28,6 +28,7 @@ The primary goal of this analysis is to quantify the risk within the selected po
 
 - Value at Risk (VaR): Explains parametric and non-parametric methods for VaR calculation.
 - Backtesting: Techniques used to verify the accuracy of VaR estimates, including Unconditional and Conditional Coverage Tests.
+
   **Data**
 
 - The analysis uses historical stock data of TCB and ABI, collected from the finance.vietstock.vn website.
